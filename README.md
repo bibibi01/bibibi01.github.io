@@ -1,4 +1,4 @@
-# HTML, CSS 실습
+# bibibi01.github.io
 
 HTML, CSS 실습 페이지
 
